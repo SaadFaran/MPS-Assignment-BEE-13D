@@ -13,3 +13,8 @@ The circuitry was then converted into the form of an IC to minimize the space oc
 
  - Here is that representation:
 ![image](https://user-images.githubusercontent.com/127740712/230777915-4f0af204-1cfa-4b92-94da-3542ae477bd0.png)
+
+
+ - Here is how my accumalator ICs look like in the main circuit of 4-bit microprocessor. The diagram is just a portion of the entire main circuit so as to show my combinational circuit portion:
+ - ![image](https://user-images.githubusercontent.com/127740712/230779717-71bf92ce-a78a-4302-b61f-cea8fe7ff735.png)
+ - The wire from the left are coming from the main circuit as well as the ALU.
