@@ -6,7 +6,7 @@ This is the ALU logic circuit designed by Zaid Ahmad on Logisim. The ALU is to b
  - The ALU has an output carry bit that indicates whether there is a carry-out from the most significant bit of the operation. The subtraction operation is implemented using the two's complement method. The result of the subtraction is also passed through a carry-look-a-head circuit to determine whether there is a borrow from the most significant bit.
  - Overall, this 1 bit ALU is a versatile digital circuit that can perform a variety of arithmetic and logical operations based on the selected operation through the MUX control signal.
 
-![image](https://user-images.githubusercontent.com/130267298/230788229-0b6d599f-4375-4f7b-b363-c960c02e948b.png)
+![image](https://user-images.githubusercontent.com/130267298/230789093-bbe002fa-d04e-4c19-8e78-d4eb1d34037c.png)
 
  - FOUR BIT ALU
  - A 4-bit ALU constructed using 4 1-bit ALUs is a digital circuit that performs arithmetic and logical operations on 4-bit binary data. The ALU consists of two 4-bit input operands and produces a 4-bit output result.
