@@ -9,4 +9,7 @@ The circuitry was then converted into the form of an IC to minimize the space oc
 
 <img width="664" alt="accumulator circuit" src="https://user-images.githubusercontent.com/127740712/230774740-89e42ad4-9116-43bb-b8b9-944abe8f3a1a.png">
 
-The output of the accumulator register should be connected to one input of each mux, as well as to the input of the ALU. This way, the output of the accumulator can be either passed through the mux to the output, or it can be combined with the output of the ALU to perform arithmetic or logic operations.
+ - The output of the accumulator register is connected to one input of each MUX, as well as to the input of the ALU. This way, the output of the accumulator can be either passed through the mux to the output, or it can be combined with the output of the ALU to perform arithmetic or logic operations.
+
+ - Here is that representation:
+![image](https://user-images.githubusercontent.com/127740712/230777764-d48d538b-69b9-4222-b8ca-1b1d8139c0df.png)
