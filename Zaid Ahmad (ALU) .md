@@ -2,3 +2,5 @@ This is the ALU logic circuit designed by Zaid Ahmad on Logisim. The ALU is to b
 
  
 ![WhatsApp Image 2023-04-09 at 19 33 30](https://user-images.githubusercontent.com/130267298/230778967-afe89983-6ab7-49be-a588-2d058149389d.jpg)
+
+
